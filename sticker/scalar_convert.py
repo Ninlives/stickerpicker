@@ -15,6 +15,7 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 import sys
 import json
+from .lib import matrix, util
 
 index_path = "../web/packs/index.json"
 
