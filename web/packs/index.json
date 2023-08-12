@@ -1,0 +1,15 @@
+{
+  "homeserver_url": "https://matrix.fullof.buzz",
+  "packs": [
+    "scalar-geeko.json",
+    "scalar-isabella.json",
+    "scalar-loading_artist.json",
+    "scalar-privacy_pam.json",
+    "scalar-rabbit.json",
+    "scalar-sheltie.json",
+    "scalar-smilies.json",
+    "scalar-stakey.json",
+    "scalar-stickman.json",
+    "scalar-videoplasty.json"
+  ]
+}
